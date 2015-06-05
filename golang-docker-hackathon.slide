@@ -1,0 +1,162 @@
+Golang & Docker Hackathon
+Create Ultron! 
+8:00 6 Jun 2015
+Tags: golang, docker, hackathon
+
+郝林
+Initiator，GopherBeijing
+hypermind.cn@gmail.com
+@hyper_carrot
+
+
+* 承办方
+
+- 发起人：郝林（Gopher，《Go并发编程实战》作者）、肖德时（Docker commiter）
+
+- 主办方：Dataman-inc（数人科技）、DaoCloud、Alauda.cn（云雀科技）、Qiniu（七牛云）
+
+- 协办方：开源中国、ThoughtWorks中国、GopherChina、DockerOne
+
+- 场地提供方：ThoughtWorks中国
+
+- 特别顾问：新浪微博技术总监杨卫华先生
+
+- 现场技术顾问：刘斌（《第一本Docker书》译者）
+
+
+* 初衷和目的
+
+- 由 GopherBeijing & Docker Beijing User Group 共同发起
+
+- 旨在帮助大家一起更好地使用 Golang 和 Docker
+
+- 也为了一起探索怎样才能将绝佳的想法和酷毙的代码结合在一起！
+
+- 希望这是一场编程盛宴，大家玩儿High就好！
+
+
+* 奖项和赞助
+
+本次活动的奖品和礼品均由各个主办方和协办方提供。在此郑重感谢！
+
+*本次活动设立了如下奖项：*
+
+- Hacker优胜奖（优选一个团队，数人科技、DaoCloud和云雀科技共同提供）
+
+- 最佳创意奖（优选一个团队，数人科技提供奖品）
+
+- 最佳用户体验奖（优选一个团队，DaoCloud提供奖品）
+
+- 高颜值代码奖（优选一个团队，云雀科技提供奖品）
+
+- 竞赛参与奖（所有团队，数人科技提供奖品）
+
+_另外，获得前4个奖项的团队均可获得上海七牛公司的云存储现金券，每个参赛团也都有机会获得丰富的礼品。_
+
+
+* 团队食宿赞助
+
+- 各团队的餐饮费用由上海七牛公司承担。
+
+- 各团队的住宿费和部分团队的路费由DaoCloud承担。
+
+
+* 参赛团队介绍
+
+- LHL（3人）：来自ThoughtWorks，题目：基于gocd和docker的持续交付平台
+
+- GoodGoodStudy（3GGS，3人）：来自360，题目：基于hera的应用
+
+- Jetlab（3人）：来自北京微语科技，题目：Online Java Compiler
+
+- 刀客儿（DKE，1人）：来自代码家，题目：Docker与智能
+
+- Fighter-ZJU（ZJU-FT，3人）：来自浙江大学，题目：Auto Dockerfile and Image
+
+- 移动未来（MF，3人）：来自北京移动未来科技，题目：Video clipper。
+
+
+* 参赛团队介绍（续）
+
+- SCUT（2人）：来自UnitedStack和Curiosity，题目：基于Docker取代Jenkins比Drone更好的CI系统
+
+- 同路人（iDareX，3人）：来自敢玩（北京）科技，题目：YouTube下载中转
+
+- CodeVS（2人）：来自于杭州电子科技大学，题目：云IDE。
+
+- DayDayUp（3DDU，3人）：来自360，题目：Swarm周边改进
+
+- 数据的搬运工（DAO，1人）：来自DaoCloud，题目：存储型Docker容器的数据备份工具volrep
+
+
+* 活动流程：
+
+- 7:50-~8:10：团队签到，团队入驻
+
+- 8:10~8:40：开场、团队介绍、比赛规则宣讲
+
+- 8:40~第二天8:40：Hack！
+
+- 第二天8:40~第二天9:00：作品整理、提交
+
+- 第二天9:00~第二天10:00：作品演示（每团队5分钟）
+
+
+* 活动流程（续）：
+
+- 第二天10:00~第二天10:30：作品投票评优（团队可继续向评审团讲解作品）
+
+- 第二天10:30~第二天10:45：投票统计
+
+- 第二天10:45~第二天11:00：公布投票结果（包括在微博话题和微信群聊上）
+
+- 第二天11:00~第二天11:30：颁奖和合影留念
+
+- 第二天11:35~：总结并宣布活动结束
+
+
+* 作品评选方法
+
+- 由活动评选专家团投票。（权重待定）
+
+- 由现场所有团队成员、志愿者和观众投票。（权重待定）
+
+- 由微信群聊“Go & Docker Hackathon 直播”中的所有观众投票。（权重待定）
+
+
+* 竞赛规则
+
+- 任何团队的作品都需要使用Go语言开发，并使用Docker进行部署。仅在有如下情况时可以使用其他编程语言：开发移动设备端或Web前端软件。
+
+- 团队报名的题目不能与其所在组织或公司的任何项目、服务或产品的名称、曾用名或别名雷同。
+
+- 团队的作品在功能上不能与其所在组织或公司的任何项目、服务或产品有明显的雷同。
+
+- 团队的作品仅能依赖于开源软件及其衍生版本，而不能依赖公司内部的私有软件。
+
+总之，我们鼓励创新，并且拒绝抄袭！
+
+*特别提示：*
+
+*如发现报名题目或最终作品违反了上述约束中的任意一条，则当即取消竞赛资格。* 
+
+
+* 代码存放
+
+所有团队的所有参赛代码均需放置在本活动的Github组织下：
+
+.link https://github.com/Go-Docker-Hackathon https://github.com/Go-Docker-Hackathon
+
+_我们已经根据各个团队的代号为大家开设好了Repo。_
+
+*Docker镜像存储服务：*
+
+.link https://daocloud.io daocloud.io（https://daocloud.io） 
+.link https://www.alauda.cn alauda.cn（https://www.alauda.cn）
+
+
+* Q&A session
+
+在这之后，我们就开始Hack吧~！
+
+有任何问题都可以随时询问你身边的志愿者：）
